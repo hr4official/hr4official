@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with ...
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Python,Django,c#
+- 🔭 I’m currently Learning/working on Python,Django,c#
 - 🌱 I’m currently learning REST API
 - 💬 Ask me about Python Django
 
