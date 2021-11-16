@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 LeetCode Activity:
 <p align="center">
-<a href="https://leetcode.com/AmsalKhan">
-  <img align="center" src="https://leetcode.card.workers.dev/?username=AmsalKhan&style=auto&border=1&extension=activity&font=Times%20New%20Roman" alt="leetcode" />
+<a href="https://leetcode.com/hr252021/">
+  <img align="center" src="https://leetcode.card.workers.dev/?username=hr252021&style=auto&border=1&extension=activity&font=Times%20New%20Roman" alt="leetcode" />
 </a>
 </p>
 
