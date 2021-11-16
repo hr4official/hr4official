@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-<img src="header.svg"></img>
-
-
 ## :trophy: My Stats:
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
